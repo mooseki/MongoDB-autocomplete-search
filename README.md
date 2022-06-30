@@ -4,7 +4,7 @@ Auto-Completing Movie_Search_App Project Overview
 The goal of this project is to learn how to instantaneously search a massive MongoDB database from inside of an Auto-Completing Movie Finder App. A lot of websites do this to help you figure out what you are typing as you go. In this project, typing in the search will give you a list of the main cast as well as the poster. 
 
 <p align="center">
-  <img width="600" height="310" src="./autocomplete.gif">
+  <img width="600" height="310" src="./autocompleteApp.gif">
 </p>
 
 ## Installation
